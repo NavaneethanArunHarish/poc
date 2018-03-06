@@ -1,0 +1,4 @@
+exports.roleOfUser = [   
+    'ADMIN',
+    'USER'
+ ]
